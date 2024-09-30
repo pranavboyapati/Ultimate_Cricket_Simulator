@@ -1,0 +1,64 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CSKClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="DCClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="DefendButton">
+			<method name="Defend"/>
+		</type>
+		<type fullname="GenerateScores">
+			<method name="Generate"/>
+		</type>
+		<type fullname="GTClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="HitButton">
+			<method name="Hit"/>
+		</type>
+		<type fullname="HomeButton">
+			<method name="Home"/>
+		</type>
+		<type fullname="HomeButtonBuyingAndSelecting2">
+			<method name="Home"/>
+		</type>
+		<type fullname="HomeButtonResults">
+			<method name="Home"/>
+		</type>
+		<type fullname="KKRClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="LSGClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="ManageTeamsButton">
+			<method name="main"/>
+		</type>
+		<type fullname="MIClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="NextPageButton">
+			<method name="NextPage"/>
+		</type>
+		<type fullname="PKClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="PlayButton">
+			<method name="main"/>
+		</type>
+		<type fullname="PreviousPageButton">
+			<method name="PreviousPage"/>
+		</type>
+		<type fullname="RCBClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="RRClicked">
+			<method name="Clicked"/>
+		</type>
+		<type fullname="SRHClicked">
+			<method name="Clicked"/>
+		</type>
+	</assembly>
+</linker>
