@@ -1,0 +1,1 @@
+This repository contains all the resources I used to develop the game Ultimate Cricket Simulator using Unity and C#. This game is available at [https://apps.apple.com/in/app/ultimate-cricket-simulator/id6475354959](url).
