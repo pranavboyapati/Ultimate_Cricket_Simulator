@@ -1,4 +1,4 @@
-# Ultimate Cricket Simulator 🏏
+# Ultimate Cricket Simulator
 
 > A 1v1 cricket batting simulation game built with Unity and C#, available now on iOS devices.
 
